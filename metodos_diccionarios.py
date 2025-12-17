@@ -25,4 +25,9 @@ persona.update({
   "color_favorito":"Azul"
 })
 
+persona["musica"] = ""
+persona["musica"] = ""
+persona["musica"] = ""
+persona["musica"] = ""
+
 print(persona)
