@@ -46,8 +46,8 @@ txt = TXTAdapter(TXTReader())
 json = JSONAdapter(JSONReader())
 xml = XMLAdapter(XMLReader())
 
-# leer_archivo(txt)
-# leer_archivo(json)
+leer_archivo(txt)
+leer_archivo(json)
 leer_archivo(xml)
 
 
