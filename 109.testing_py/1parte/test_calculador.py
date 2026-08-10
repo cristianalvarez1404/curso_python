@@ -1,5 +1,5 @@
 import unittest
-from main import sumar, restar, multiplicar, dividir
+from verificacion_mocks import sumar, restar, multiplicar, dividir
 
 class TestCalculadora(unittest.TestCase):
   def test_sumar(self):
